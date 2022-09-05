@@ -1,0 +1,8 @@
+body{
+    color:white;
+    background:rgb(218, 87, 131);
+}
+.name_of_objects, #result_object_name
+{
+    color:yellow;
+}
